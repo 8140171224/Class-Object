@@ -11,17 +11,10 @@ Python is an object oriented programming language. Unlike procedure oriented pro
         def __init__(self,cpu,ram):
             self.cpu = cpu
             self.ram = ram
-
-
         # def function config
         def config(self):
 
             print('config is ;', self.cpu, self.ram)
-
-
-
-
-
 
     comp1 = computer('i5',8)
     comp2 = computer('r5',8)
