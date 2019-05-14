@@ -23,11 +23,6 @@ Python is an object oriented programming language. Unlike procedure oriented pro
     comp1.config()
 ##
 ##
-##
-##
-
-# constructor
-# self
 
 # constructor
 # self
