@@ -1,4 +1,3 @@
-
 class student:
 
 
@@ -16,7 +15,7 @@ class student:
     @classmethod
     def get_school(cls):
         return  cls.school
-
+    @staticmethod
     def info():
         print("This is  student class.. in abc molude")
 
