@@ -97,3 +97,8 @@ Python is an object oriented programming language. Unlike procedure oriented pro
         s1.show()
 
 
+# Information
+
+## BY aakash padhiyar
+
+## 8140171224
